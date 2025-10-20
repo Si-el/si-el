@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Siel 
+
+I mainly program minecraft mods here, and I'll be showing certain repositories for my progression, and perhaps mods that I could make in the future.
 
 <!--
 **Si-el/si-el** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
